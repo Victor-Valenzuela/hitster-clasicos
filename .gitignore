@@ -1,0 +1,35 @@
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# firebase local config
+.firebaserc
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
+
+# dev assets (anime test files)
+dev/
+src/data/anime-test.json
+
+# audio and cover files (too large for git)
+public/audio/
+public/images/covers/
