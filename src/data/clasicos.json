@@ -50,7 +50,7 @@
         "titulo": "Como Quién Pierde Una Estrella",
         "artista": "Alejandro Fernández",
         "year": 1995,
-        "genero": "Ranchera",
+        "genero": "Balada",
         "previewUrl": "/audio/alejandro-fernandez_como-quien-pierde-una-estrella.mp3",
         "portada": "/images/covers/alejandro-fernandez_como-quien-pierde-una-estrella.jpg"
     },
@@ -58,7 +58,7 @@
         "titulo": "Nube Viajera",
         "artista": "Alejandro Fernández",
         "year": 1997,
-        "genero": "Ranchera",
+        "genero": "Balada",
         "previewUrl": "/audio/alejandro-fernandez_nube-viajera.mp3",
         "portada": "/images/covers/alejandro-fernandez_nube-viajera.jpg"
     },
@@ -66,7 +66,7 @@
         "titulo": "Si Tú Supieras",
         "artista": "Alejandro Fernández",
         "year": 1995,
-        "genero": "Ranchera",
+        "genero": "Balada",
         "previewUrl": "/audio/alejandro-fernandez_si-tu-supieras.mp3",
         "portada": "/images/covers/alejandro-fernandez_si-tu-supieras.jpg"
     },
@@ -74,7 +74,7 @@
         "titulo": "No Me Sé Rajar",
         "artista": "Alejandro Fernández",
         "year": 1999,
-        "genero": "Ranchera",
+        "genero": "Balada",
         "previewUrl": "/audio/alejandro-fernandez_no-me-se-rajar.mp3",
         "portada": "/images/covers/alejandro-fernandez_no-me-se-rajar.jpg"
     },
@@ -82,7 +82,7 @@
         "titulo": "Mátalas",
         "artista": "Alejandro Fernández",
         "year": 2004,
-        "genero": "Ranchera",
+        "genero": "Balada",
         "previewUrl": "/audio/alejandro-fernandez_matalas.mp3",
         "portada": "/images/covers/alejandro-fernandez_matalas.jpg"
     },
@@ -90,7 +90,7 @@
         "titulo": "Me Dediqué A Perderte",
         "artista": "Alejandro Fernández",
         "year": 2004,
-        "genero": "Ranchera",
+        "genero": "Balada",
         "previewUrl": "/audio/alejandro-fernandez_me-dedique-a-perderte.mp3",
         "portada": "/images/covers/alejandro-fernandez_me-dedique-a-perderte.jpg"
     },
@@ -98,7 +98,7 @@
         "titulo": "Hoy Tengo Ganas De Ti",
         "artista": "Alejandro Fernández",
         "year": 2014,
-        "genero": "Ranchera",
+        "genero": "Balada",
         "previewUrl": "/audio/alejandro-fernandez_hoy-tengo-ganas-de-ti.mp3",
         "portada": "/images/covers/alejandro-fernandez_hoy-tengo-ganas-de-ti.jpg"
     },
