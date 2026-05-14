@@ -1461,6 +1461,24 @@ body::before {
     letter-spacing: 0.2em;
 }
 
+/* Forzar layout desktop en Smart TVs (no tienen pointer ni hover) */
+@media (pointer: none) and (hover: none) {
+    .layout-juego {
+        flex-direction: row !important;
+        gap: 2rem !important;
+    }
+
+    .zona-carta {
+        flex: 0 0 420px !important;
+        width: auto !important;
+    }
+
+    .zona-coleccion {
+        flex: 1 !important;
+        width: auto !important;
+    }
+}
+
 .layout-juego {
     display: flex;
     gap: 2rem;
