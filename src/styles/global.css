@@ -126,6 +126,18 @@ body::before {
     align-items: start;
 }
 
+/* FullHD y superiores: cards más grandes */
+@media (min-width: 1440px) {
+    .grid-coleccion {
+        grid-template-columns: repeat(5, 1fr);
+        gap: 0.8rem;
+    }
+
+    .zona-carta {
+        flex: 0 0 450px;
+    }
+}
+
 .grid-coleccion-compacto {
     display: grid;
     grid-template-columns: repeat(5, 1fr);

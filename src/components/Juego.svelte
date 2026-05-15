@@ -422,7 +422,7 @@
     >
       🚪 Salir
     </button>
-    <div class="w-full max-w-6xl {transicion ? 'opacity-0' : 'opacity-100'}" style="transition: opacity 0.3s ease;">
+    <div class="w-full max-w-7xl {transicion ? 'opacity-0' : 'opacity-100'}" style="transition: opacity 0.3s ease;">
       {#if esMultijugador}
         <Marcador {jugadores} {turnoActual} />
       {/if}
