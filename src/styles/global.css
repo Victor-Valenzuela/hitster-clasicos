@@ -129,7 +129,6 @@ body::before {
 /* FullHD y superiores: cards más grandes */
 @media (min-width: 1440px) {
     .grid-coleccion {
-        grid-template-columns: repeat(5, 1fr);
         gap: 0.8rem;
     }
 
